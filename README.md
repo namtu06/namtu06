@@ -1,4 +1,7 @@
-## Hi there 👋
+## hi
+## im a biomedical engineering and data science student in finland
+### i push my coursework onto here once every semester so you know im actually not slacking around
+
 
 <!--
 **namtu06/namtu06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
