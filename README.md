@@ -1,5 +1,5 @@
 ## hi
-## im a biomedical engineering and data science student in finland
+## im a student in finland, double majoring in biomedical engineering and data science
 ### i push my coursework onto here once every semester so you know im actually not slacking around
 
 
