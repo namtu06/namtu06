@@ -1,6 +1,5 @@
 ### i push my coursework onto here once every semester so you know im actually not slacking around
-
-<h2> &nbsp;i know uhhhhhhhh</h2>
+i know uhhhhhhhh
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="45" height="45"/>
