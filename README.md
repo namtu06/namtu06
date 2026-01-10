@@ -1,6 +1,5 @@
-## hi, im a student in finland, double majoring in biomedical engineering and data science
 ### i push my coursework onto here once every semester so you know im actually not slacking around
-### 
+
 <h2> &nbsp;i know uhhhhhhhh</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
