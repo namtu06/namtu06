@@ -1,5 +1,5 @@
-### I push my coursework onto here once every semester so you know I'm actually not slacking around.
-I know these:
+i push my coursework and research work onto here once every semester so you know I'm actually not slacking around aha
+i know these:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="45" height="45"/>
