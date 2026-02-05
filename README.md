@@ -1,5 +1,6 @@
-### i push my coursework and research work onto here once every semester so you know i'm actually not slacking around aha
-### i know/am learning these:
+### Mainly data science, machine learning, biomedical engineering shenanigans @ TUNI :)
+## I push my coursework and research work onto here once every semester so you know I'm actually not slacking around
+## I know/am learning these:
 
 
           
