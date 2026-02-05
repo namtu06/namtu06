@@ -8,7 +8,7 @@
 
 
 
-## Languages I know (it's mostly pyt)
+## Languages I know (it's mostly Python)
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="32">
