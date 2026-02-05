@@ -1,4 +1,4 @@
-### Mainly data science, machine learning, biomedical engineering shenanigans @ TUNI :)
+# VN student. Mainly data science, machine learning, biomedical engineering shenanigans @ TUNI, Finland :) 
 ## I push my coursework and research work onto here once every semester so you know I'm actually not slacking around
 ## I know/am learning these:
 
