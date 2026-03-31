@@ -1,7 +1,7 @@
 # Hi / Xin chào / Moi / Guten Tag, I'm Nam :)
 
 - Vietnamese Bachelor's student in **Biomedical Engineering** and **Data Analytics** '27  
-  Incoming Master's in **Data Science** '29 @ TUNI, Finland  
+  Incoming Master's in **Data Science** and **Biomedical Informatics/Biosignal Processing** '29 @ TUNI, Finland  
 - I push my coursework on here once in a while so you know I'm not slacking off
 - Live, love, VSCode
 - Live, love, Python
