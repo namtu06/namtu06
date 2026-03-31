@@ -1,14 +1,14 @@
-# Hi / Xin chào / Moi / Guten Tag, I'm Nam :)
+# Hello / Xin chào / Moi / Guten Tag, I'm Nam :)
 
-- Vietnamese Bachelor's student in **Biomedical Engineering** and **Data Analytics** '27  
-  Incoming Master's in **Data Science** and **Biomedical Informatics/Biosignal Processing** '29 @ TUNI, Finland  
-- I push my coursework on here once in a while so you know I'm not slacking off
+- Vietnamese Bachelor's student in **Biomedical Engineering** and **Data Analysis** '27  
+  Incoming Master's in **Data Science** and **Biomedical Informatics** '29 @ TUNI, Finland  
+- I push my coursework on here once in a while, so you know I'm not slacking off
 - Live, love, VSCode
 - Live, love, Python
 
 
 
-## Languages I know (it's mostly Python)
+## Languages I work with
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="32">
@@ -18,7 +18,7 @@
 
 
 
-## ML / DS / DE
+## Data Science/Data Engineering Tools
 
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=for-the-badge" height="32">
