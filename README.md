@@ -1,19 +1,30 @@
+
 # Hello / Xin chào / Moi / Guten Tag, I'm Nam :)
 
-- Vietnamese Bachelor's student in **Biomedical Engineering** and **Data Analysis** '27  
-  Incoming Master's in **Data Science** and **Biomedical Informatics** '29 @ TUNI, Finland  
-- I push my coursework on here once in a while, so you know I'm not slacking off
-- Live, love, VSCode
-- Live, love, Python
+- 🇻🇳 Vietnamese student @ Tampere University, FI
+- Live, love, VSCode!!
+- Live, love, Python!!
+
+## 🎓 Studies
+- **Bachelor’s - Biomedical Engineering (writing thesis):**  
+  - Biomedical Instrumentation, Anatomy and Physiology, Medical Biomaterials, Tissue Engineering, Microsystems  
+  - Time Series Analysis with ML, Data Structures and Algorithms, Discrete Maths, Database Basics  
+
+- **Master’s - Data Science (ongoing):**  
+  - Deep Learning, Data-Intensive Programming, Statistical Modelling, NLP, Matrix Analysis  
+  - CI/CD, Backend Development  
+  - Biomedical Informatics, Medical Imaging, Healthcare Decision Support  
 
 
 
-## Languages I work with
+
+## Languages I work with/learning
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="32">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="32">
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="32">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height = "32">
 </p>
 
 
