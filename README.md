@@ -11,7 +11,7 @@
   - Time Series Analysis with ML, Data Structures and Algorithms, Discrete Maths, Database Basics  
 
 - **Master’s - Data Science (ongoing):**  
-  - Deep Learning, Data-Intensive Programming, Statistical Modelling, NLP, Matrix Analysis  
+  - Deep Learning, Data-Intensive Programming, Big Data Mining, Statistical Modelling
   - CI/CD, Backend Development  
   - Biomedical Informatics, Medical Imaging, Healthcare Decision Support  
 
