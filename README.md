@@ -6,7 +6,7 @@
 - Live, love, Python!!
 
 ## 🎓 Studies
-- **Bachelor’s - Biomedical Engineering (writing thesis):**  
+- **Bachelor’s - (Computational) Biomedical Engineering (writing thesis):**  
   - Biomedical Instrumentation, Anatomy and Physiology, Medical Biomaterials, Tissue Engineering, Microsystems  
   - Time Series Analysis with ML, Data Structures and Algorithms, Discrete Maths, Database Basics  
 
