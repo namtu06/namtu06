@@ -6,9 +6,9 @@
 - Live, love, Python!!
 
 ## 🔬 Ongoing projects/work
-- Biomedical Informatics RA @ Molecular Signalling Lab - TUNI
+- **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
   - Investigating differences in expression between GBM transcriptomic and proteomic data
-- Personal
+- **Personal**
   - Alarm classification via ECG data using Machine Learning
   - Statistical Analysis of European Marathons' Participants
 
