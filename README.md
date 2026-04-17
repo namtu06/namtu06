@@ -5,6 +5,13 @@
 - Live, love, VSCode!!
 - Live, love, Python!!
 
+## 🔬 Ongoing projects/work
+- Biomedical Informatics RA @ Molecular Signalling Lab - TUNI
+  - Investigating differences in expression between GBM transcriptomic and proteomic data
+- Personal
+  - Alarm classification via ECG data using Machine Learning
+  - Statistical Analysis of European Marathons' Participants
+
 ## 🎓 Studies
 - **Bachelor’s - (Computational) Biomedical Engineering (writing thesis):**  
   - Biomedical Instrumentation, Anatomy and Physiology, Medical Biomaterials, Tissue Engineering, Microsystems  
