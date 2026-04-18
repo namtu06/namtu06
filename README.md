@@ -15,17 +15,19 @@
 ## 🎓 Studies
 - **Bachelor’s - (Computational) Biomedical Engineering (writing thesis):**  
   - Biomedical Instrumentation, Anatomy and Physiology, Medical Biomaterials, Tissue Engineering, Microsystems  
-  - Time Series Analysis with ML, Data Structures and Algorithms, Discrete Maths, Database Basics  
+  - Time Series Analysis with ML, Data Structures and Algorithms, Big Data Mining, Discrete Maths, Database Basics
+  - Cloud Technologies
 
 - **Master’s - Data Science (ongoing):**  
-  - Deep Learning, Data-Intensive Programming, Big Data Mining, Statistical Modelling
-  - CI/CD, Backend Development  
+  - Deep Learning, Data-Intensive Programming, Statistical Modelling, NLP, Advanced Signal Processing
   - Biomedical Informatics, Medical Imaging, Healthcare Decision Support  
+  - CI/CD, Backend Development
 
 
 
 
-## Languages I work with/learning
+
+## Languages I work with/ am learning
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="32">
