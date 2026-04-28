@@ -5,23 +5,25 @@
 - Live, love, VSCode!!
 - Live, love, Python!!
 
-## 🔬 Ongoing projects/work
-- **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
-  - Investigating differences in expression between GBM transcriptomic and proteomic data
-- **Personal**
-  - Alarm classification via ECG data using Machine Learning
-  - Statistical Analysis of European Marathons' Participants
-
 ## 🎓 Studies
+- **Master’s - Data Science (ongoing):**  
+  - Major: Deep Learning, Data-Intensive Programming, Statistical Modelling, Complex Networks
+  - Minor: Signal & Image Processing, Computer Vision, Cloud Technologies
+  - Electives: Biomedical Informatics, Biosignals, Healthcare Decision Support
+
 - **Bachelor’s - (Computational) Biomedical Engineering (writing thesis):**  
   - Major: Biomedical Instrumentation, Anatomy and Physiology, Medical Biomaterials, Tissue Engineering, Microsystems  
   - Minor: Data Structures and Algorithms, Time Series Analysis with ML, Big Data Mining, Database Basics
   
 
-- **Master’s - Data Science (ongoing):**  
-  - Major: Deep Learning, Data-Intensive Programming, Statistical Modelling, Complex Networks
-  - Minor: Signal & Image Processing, Computer Vision, Cloud Technologies
-  - Electives: Biomedical Informatics, Biosignals, Healthcare Decision Support
+
+## 🔬 Ongoing projects/work
+- **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
+  - Glioblastoma transcriptomics and proteomics analysis
+- **Personal**
+  - Alarm classification via ECG data using Machine Learning
+  - Statistical Analysis of European Marathons' Participants
+
 
 
 
