@@ -8,8 +8,8 @@
 ## 🎓 Studies
 - **Master’s - Data Science (ongoing):**  
   - Major: Deep Learning, Data-Intensive Programming, Statistical Modelling, Complex Networks
-  - Minor: Signal & Image Processing, Computer Vision, Cloud Technologies
-  - Electives: Biomedical Informatics, Biosignals, Healthcare Decision Support
+  - Minor: Computer Vision & Speech Processing, Signal & Image Processing, Cloud Technologies
+  - Electives: Biomedical Informatics, Biosignals Processing
 
 - **Bachelor’s - (Computational) Biomedical Engineering (writing thesis):**  
   - Major: Biomedical Instrumentation, Anatomy and Physiology, Medical Biomaterials, Tissue Engineering, Microsystems  
