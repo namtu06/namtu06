@@ -11,7 +11,7 @@
   - Minor: Computer Vision & Speech Processing, Signal & Image Processing, Cloud Technologies
   - Electives: Biomedical Informatics, Biosignals Processing
 
-- **Bachelor’s - (Computational) Biomedical Engineering (writing thesis):**  
+- **Bachelor’s - (Computational) Biomedical Engineering:**  
   - Major: Biomedical Instrumentation, Anatomy and Physiology, Medical Biomaterials, Tissue Engineering, Microsystems  
   - Minor: Data Structures and Algorithms, Time Series Analysis with ML, Big Data Mining, Database Basics
   
@@ -19,11 +19,7 @@
 
 ## 🔬 Ongoing projects/work
 - **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
-  - Glioblastoma transcriptomics and proteomics analysis
-- **Personal**
-  - Alarm classification via ECG data using Machine Learning
-  - Statistical Analysis of European Marathons' Participants
-
+  - Glioblastoma transcriptomics and proteomics analysis (also doubling as thesis)
 
 
 
