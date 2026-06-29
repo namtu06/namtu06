@@ -8,8 +8,8 @@
 
 ## 🎓 Relevant Studies
 - **Master’s - Data Science (ongoing):**  
-  - Major: Deep Learning, Data-Intensive Programming, Statistical Modelling, Algorithms for Graphs
-  - Minor: Computer Vision & Speech Processing, Biomedical Informatics
+  - Deep Learning, Data-Intensive Programming, Statistical Modelling, Algorithms for Graphs
+  - Computer Vision & Speech Processing, Biomedical Informatics
 
 - **Bachelor’s - Biomedical Engineering & Data Analysis:**  
   - Biomedical Instrumentation, Medical Biomaterials, Tissue Engineering, Microsystems  
