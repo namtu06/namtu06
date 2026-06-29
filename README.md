@@ -1,19 +1,19 @@
 
 # Hello / Xin chào / Moi / Guten Tag, I'm Nam :)
 
-- 🇻🇳 Vietnamese student @ Tampere University, FI
-- Live, love, VSCode!!
-- Live, love, Python!!
+## 👋 About Me
+- Vietnamese student @ Tampere University, Finland
+- Highly interested in the tech-health intersection
+- Occasionally gaming, guitar-ing, and manga-reading
 
-## 🎓 Studies
+## 🎓 Relevant Studies
 - **Master’s - Data Science (ongoing):**  
-  - Major: Deep Learning, Data-Intensive Programming, Statistical Modelling, Complex Networks
-  - Minor: Computer Vision & Speech Processing, Signal & Image Processing, Cloud Technologies
-  - Electives: Biomedical Informatics, Biosignals Processing
+  - Major: Deep Learning, Data-Intensive Programming, Statistical Modelling, Algorithms for Graphs
+  - Minor: Computer Vision & Speech Processing, Biomedical Informatics
 
-- **Bachelor’s - (Computational) Biomedical Engineering:**  
-  - Major: Biomedical Instrumentation, Anatomy and Physiology, Medical Biomaterials, Tissue Engineering, Microsystems  
-  - Minor: Data Structures and Algorithms, Time Series Analysis with ML, Big Data Mining, Database Basics
+- **Bachelor’s - Biomedical Engineering & Data Analysis:**  
+  - Biomedical Instrumentation, Medical Biomaterials, Tissue Engineering, Microsystems  
+  - Data Structures and Algorithms, Big Data Mining
   
 
 
