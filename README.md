@@ -6,21 +6,20 @@
 - Interested in machine learning/AI, statistics, and biomedical informatics.
 - Occasionally running, gaming, playing the guitar, and reading manga.
 
-# 🎓 Academic Background
 
-## **M.Sc. Data Science — Tampere University (ongoing)**
+## 🎓 **M.Sc. Data Science — Tampere University (ongoing)**
 - Deep Learning, Signal Processing
 - Bayesian Modelling & Computation, Statistical Methods
 - Cloud Technologies
 
-## **B.Sc. Biomedical Engineering** (final thesis in progress)
+## 🎓 **B.Sc. Biomedical Engineering** (final thesis in progress)
 - Biomedical Instrumentation, Tissue Engineering, Medical Biomaterials
 - Data Structures & Algorithms, Data Analytics in Decision-Making, Time Series Analysis with ML, Database Basics
 - Multivariable Calculus, Bayesian Analysis, Linear Algebra 
 
 
-# 🔬 Ongoing projects/work
-## **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
+## 🔬 Ongoing projects/work
+### **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
   - Investigating molecular signatures across glioblastoma subtypes using transcriptomic and proteomic data.
   - Performing differential expression, pathway enrichment and machine learning analyses in Python.
 
