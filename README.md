@@ -1,30 +1,26 @@
 
-# Hello / Xin chào / Moi / Guten Tag, I'm Nam :)
 
-## 👋 About Me
-- Full-ride scholarship Vietnamese student @ Tampere University, Finland
-- Interested in machine learning/AI, data science, and biomedical informatics.
-- Occasionally running, gaming, playing the guitar, and reading manga
 
-## 🎓 Academic Background
+# 👋 Hello/Moi/Guten Tag/Xin chào! I am Nam :)
+- Full-ride scholarship Vietnamese student @ Tampere University, Finland.
+- Interested in machine learning/AI, statistics, and biomedical informatics.
+- Occasionally running, gaming, playing the guitar, and reading manga.
 
-**M.Sc. Data Science — Tampere University (ongoing)**
-- Deep Learning
-- Bayesian Analysis, Statistical Methods
+# 🎓 Academic Background
+
+## **M.Sc. Data Science — Tampere University (ongoing)**
+- Deep Learning, Signal Processing
+- Bayesian Modelling & Computation, Statistical Methods
 - Cloud Technologies
-- Signal Processing
 
-**B.Sc. Biomedical Engineering** (final thesis in progress)
-- Biomedical Instrumentation
-- Tissue Engineering
-- Medical Biomaterials
-- Data Analytics in Decision-Making
-- Time Series Analysis with Machine Learning
-  
+## **B.Sc. Biomedical Engineering** (final thesis in progress)
+- Biomedical Instrumentation, Tissue Engineering, Medical Biomaterials
+- Data Structures & Algorithms, Data Analytics in Decision-Making, Time Series Analysis with ML, Database Basics
+- Multivariable Calculus, Bayesian Analysis, Linear Algebra 
 
 
-## 🔬 Ongoing projects/work
-- **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
+# 🔬 Ongoing projects/work
+## **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
   - Investigating molecular signatures across glioblastoma subtypes using transcriptomic and proteomic data.
   - Performing differential expression, pathway enrichment and machine learning analyses in Python.
 
@@ -32,7 +28,7 @@
 
 
 
-## Languages I work with/am learning
+# Languages I work with/am learning
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="32">
@@ -42,7 +38,7 @@
 
 
 
-## Data Science/Engineering Tools I work with
+# Data Science/Engineering Tools I work with
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="32">
