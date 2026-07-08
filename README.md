@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="32">
 </p>
 
+also English, Vietnamese, Finnish, and German ;)
 
 
 # Data Science/Engineering Tools I work with
