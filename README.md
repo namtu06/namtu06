@@ -3,7 +3,7 @@
 
 # 👋 Hello/Moi/Guten Tag/Xin chào! I am Nam :)
 - Full-ride scholarship Vietnamese student @ Tampere University, Finland.
-- Interested in machine learning/AI, statistics, and biomedical informatics.
+- Exploring machine learning/AI, statistics, and biomedical informatics.
 - Occasionally running, gaming, playing the guitar, and reading manga.
 
 
