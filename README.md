@@ -12,7 +12,7 @@
 - Bayesian Modelling & Computation, Statistical Methods
 - Cloud Technologies
 
-## 🎓 **B.Sc. Biomedical Engineering** (final thesis in progress)
+## 🎓 **B.Sc. Biomedical Engineering** - Tampere University (final thesis in progress)
 - Biomedical Instrumentation, Tissue Engineering, Medical Biomaterials
 - Data Structures & Algorithms, Data Analytics in Decision-Making, Time Series Analysis with ML, Database Basics
 - Multivariable Calculus, Bayesian Analysis, Linear Algebra 
