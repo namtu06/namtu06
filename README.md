@@ -9,13 +9,13 @@
 
 ## 🎓 **M.Sc. Data Science — Tampere University (ongoing)**
 - Deep Learning, Signal Processing
-- Bayesian Modelling & Computation, Statistical Methods
-- Cloud Technologies
+- Bayesian Analysis, Statistical Methods
+- Cloud Technologies, Parallel Computing
 
 ## 🎓 **B.Sc. Biomedical Engineering** - Tampere University (final thesis in progress)
 - Biomedical Instrumentation, Tissue Engineering, Medical Biomaterials
 - Data Structures & Algorithms, Data Analytics in Decision-Making, Time Series Analysis with ML, Database Basics
-- Multivariable Calculus, Bayesian Analysis, Linear Algebra 
+- Multivariable Calculus, Linear Algebra
 
 
 ## 🔬 Ongoing projects/work
