@@ -9,7 +9,7 @@
 
 ## 🎓 **M.Sc. Data Science — Tampere University (ongoing)**
 - **Machine Learning/Data Engineering**: Deep Learning, Data-Intensive Programming, Cloud Technologies
-- **Statistics**: Bayesian Analysis, Statistical Methods
+- **Statistics**: Bayesian Analysis, Statistical Modelling & Inference
 - **Minors**: Biomedical Informatics, Computational Biology, Applied Mathematics, Signal Processing
 
 ## 🎓 **B.Sc. Biomedical Engineering** - Tampere University (final thesis in progress)
