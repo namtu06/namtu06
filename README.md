@@ -20,8 +20,7 @@
 
 ## 🔬 Ongoing projects/work
 ### **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
-  - Investigating molecular signatures across glioblastoma subtypes using transcriptomic and proteomic data.
-  - Performing differential expression, pathway enrichment and machine learning analyses in Python.
+  - Computational analysis of mitochrondrial pathways in Glioblastoma transcriptome 
 
 
 
