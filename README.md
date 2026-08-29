@@ -2,25 +2,28 @@
 
 
 # 👋 Hello/Moi/Guten Tag/Xin chào! I am Nam :)
-- Full-ride scholarship Vietnamese student @ Tampere University, Finland.
-- Exploring machine learning/AI, statistics, and biomedical informatics.
-- Occasionally running, gaming, playing the guitar, and reading manga.
+
+- 🇻🇳 Full-ride Scholarship Student @ Tampere University.
+
+- Experienced in transcriptomics, differential gene expression, statistical analysis, machine learning, and reproducible Python data pipelines. 
+
+- Applying data science and computational methods to healthcare, biomedical, and real-world data problems.
 
 
 ## 🎓 **M.Sc. Data Science — Tampere University (ongoing)**
-- **Machine Learning/Data Engineering**: Deep Learning, Data-Intensive Programming, Cloud Technologies
-- **Statistics**: Bayesian Analysis, Statistical Modelling & Inference
-- **Minors**: Biomedical Informatics, Computational Biology, Applied Mathematics, Signal Processing
+- ***Ongoing:*** Advanced Deep Learning, Computer Vision, Statistical Inference & Modelling, Dimensionality Reduction
+- Deep Learning, Bayesian Analysis, Time Series Analysis with ML
+- Signal Processing, Data-Intensive Programming, Cloud Technologies
 
 ## 🎓 **B.Sc. Biomedical Engineering** - Tampere University (final thesis in progress)
-- Biomedical Instrumentation, Tissue Engineering, Medical Biomaterials
-- Data Structures & Algorithms, Data Analytics in Decision-Making, Time Series Analysis with ML, Database Basics
-- Multivariable Calculus, Linear Algebra
+- Biomedical Instrumentation, Medical Biomaterials, Anatomy & Physiology
+- Data Structures and Algorithms, Big Data Mining
+- ***Thesis:*** Network Analysis of Mitochondrial Complexes in Glioblastoma Transcriptomics
 
 
 ## 🔬 Ongoing projects/work
 ### **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
-  - Computational analysis of mitochrondrial pathways in Glioblastoma transcriptome 
+  - Computational analysis of mitochondrial pathways in Glioblastoma transcriptome 
 
 
 
