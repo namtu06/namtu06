@@ -18,18 +18,19 @@
 ## 🎓 **B.Sc. Biomedical Engineering** - Tampere University (final thesis in progress)
 - Biomedical Instrumentation, Medical Biomaterials, Anatomy & Physiology
 - Data Structures and Algorithms, Big Data Mining
-- ***Thesis:*** Network Analysis of Mitochondrial Complexes in Glioblastoma Transcriptomics
-
-
-## 🔬 Ongoing projects/work
-### **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
-  - Computational analysis of mitochondrial pathways in Glioblastoma transcriptome 
+- ***Thesis:*** Computational Analysis of Apoptosis and Mitochondrial Respiratory Complexes in Glioblastoma Transcriptomics
 
 
 
+## 🔬 **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
+  - Multiomics analysis of glioblastoma
+  - Differential analysis, functional enrichment, interaction network mapping and analysis
 
 
-# Languages 
+
+
+
+## Languages 
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="32">
@@ -41,7 +42,7 @@
 also English, Vietnamese, Finnish, and German ;)
 
 
-# Data Science/Engineering 
+## Tech-stack
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="32">
