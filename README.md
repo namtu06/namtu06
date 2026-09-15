@@ -26,6 +26,8 @@
   - Multiomics analysis of glioblastoma
   - Differential analysis, functional enrichment, interaction network mapping and analysis
 
+    ^ Scripts for them can be found on GitHub repo at ```./src```!
+
 
 
 
