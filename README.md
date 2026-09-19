@@ -1,38 +1,9 @@
 
 
 
-# 👋 Hello/Moi/Guten Tag/Xin chào! I am Nam :)
+ 👋 Hello/Moi/Guten Tag/Xin chào! I am Nam :)
 
-- 🇻🇳 Full-ride Scholarship Student @ Tampere University.
-
-- Experienced in transcriptomics, differential gene expression, statistical analysis, machine learning, and reproducible Python data pipelines. 
-
-- Applying data science and computational methods to healthcare, biomedical, and real-world data problems.
-
-
-## 🎓 **M.Sc. Data Science — Tampere University (ongoing)**
-- ***Ongoing:*** Advanced Deep Learning, Computer Vision, Statistical Inference & Modelling, Dimensionality Reduction
-- Deep Learning, Bayesian Analysis, Time Series Analysis with ML
-- Signal Processing, Data-Intensive Programming, Cloud Technologies
-
-## 🎓 **B.Sc. Biomedical Engineering** - Tampere University (final thesis in progress)
-- Biomedical Instrumentation, Medical Biomaterials, Anatomy & Physiology
-- Data Structures and Algorithms, Big Data Mining
-- ***Thesis:*** Computational Analysis of Apoptosis and Mitochondrial Respiratory Complexes in Glioblastoma Transcriptomics
-
-
-
-## 🔬 **Biomedical Informatics RA @ Molecular Signalling Lab - TUNI**
-  - Multiomics analysis of glioblastoma
-  - Differential analysis, functional enrichment, interaction network mapping and analysis
-
-    ^ Scripts for them can be found on GitHub repo at ```./src```!
-
-
-
-
-
-## Languages 
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="32">
@@ -44,7 +15,7 @@
 also English, Vietnamese, Finnish, and German ;)
 
 
-## Tech-stack
+## My tech stack
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="32">
