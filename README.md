@@ -3,6 +3,8 @@
 
  👋 Hello/Moi/Guten Tag/Xin chào! I am Nam :)
 
+Personal profile page @ https://namtu06.github.io/
+
 ## Languages
 
 <p>
